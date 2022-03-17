@@ -29,7 +29,7 @@ const (
 
 //Task is structure for word/translate
 type Task struct {
-	Id        int
+	//	Id        int
 	Word      string
 	Translate string
 	Frequency int
